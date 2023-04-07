@@ -1,0 +1,2 @@
+# TRANSPORTATION-VOGEL-S-APPROXIMATION-METHOD-TVAM-For-Solving-Assigntment-Problem-With-Python
+TRANSPORTATION VOGEL’S APPROXIMATION METHOD(TVAM) For Solving Assigntment Problem With Python
